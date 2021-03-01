@@ -1,5 +1,5 @@
 let movies = [
-{ name: ' MuhammadSodiq bilan Jonli Suhbat', video: "https://www.youtube.com/embed/uvgW_xSdONU" ,bgc: 'img/navoiy.jpg'},
+{ name: ' MuhammadSodiq bilan Jonli Suhbat', video: "https://www.youtube.com/embed/uvgW_xSdONU" ,bgc:'img/IMG_20201111_112025_255.jpg'},
 { name: 'SQL', video: "https://www.youtube.com/embed/HXV3zeQKqGY" ,bgc: 'img/navoiy.jpg'},
 { name: '1 soatda HTML O\'rganamiz', 
 video: "https://www.youtube.com/embed/xcGtfYUfDLo" ,
