@@ -1,0 +1,26 @@
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.add__videos .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    height: 100vh;
+    width: 40%;
+}
+
+.add__videos__input {
+    margin: 15px 0;
+    padding: 20px 30px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.add__video__button {
+    width: 20%;
+    padding: 20px;
+}
