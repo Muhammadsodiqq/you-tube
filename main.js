@@ -1,5 +1,5 @@
 let movies = [
-{ name: 'SQL', video: "https://www.youtube.com/embed/HXV3zeQKqGY" ,bgc: 'img/navoiy.jpg'},
+{ name: 'SQL', video: "https://www.youtube.com/embed/HXV3zeQKqGY" ,bgc: 'https://www.youtube.com/embed/lapMmGGFS7k'},
 { name: '1 soatda HTML O\'rganamiz', 
 video: "https://www.youtube.com/embed/xcGtfYUfDLo" ,
 bgc: 'https://yt3.ggpht.com/ytc/AAUvwnjembDaZI0ZHpbdOVeHXZsx_PLnlaoEXD6yirAE=s900-c-k-c0x00ffffff-no-rj'},
